@@ -1,0 +1,7 @@
+D:\WorkingSpace\Linked In Program\InBLL\bin\Debug\InBLL.dll
+D:\WorkingSpace\Linked In Program\InBLL\bin\Debug\InBLL.pdb
+D:\WorkingSpace\Linked In Program\InBLL\bin\Debug\DAL.dll
+D:\WorkingSpace\Linked In Program\InBLL\bin\Debug\DAL.pdb
+D:\WorkingSpace\Linked In Program\InBLL\obj\Debug\InBLL.csprojResolveAssemblyReference.cache
+D:\WorkingSpace\Linked In Program\InBLL\obj\Debug\InBLL.dll
+D:\WorkingSpace\Linked In Program\InBLL\obj\Debug\InBLL.pdb

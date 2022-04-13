@@ -1,0 +1,19 @@
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Linkedin For letsgettoit2019.dll.config
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Linkedin For letsgettoit2019.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Linkedin For letsgettoit2019.pdb
+D:\WorkingSpace\Linked In Program\Linkedin\bin\AjaxControlToolkit.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\InBLL.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\itextsharp.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Spire.License.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Spire.Pdf.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\DAL.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\InBLL.pdb
+D:\WorkingSpace\Linked In Program\Linkedin\bin\itextsharp.xml
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Spire.License.xml
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Spire.Pdf.xml
+D:\WorkingSpace\Linked In Program\Linkedin\bin\DAL.pdb
+D:\WorkingSpace\Linked In Program\Linkedin\obj\Release\Linkedin.csprojResolveAssemblyReference.cache
+D:\WorkingSpace\Linked In Program\Linkedin\obj\Release\Linkedin For letsgettoit2019.dll
+D:\WorkingSpace\Linked In Program\Linkedin\obj\Release\Linkedin For letsgettoit2019.pdb
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Newtonsoft.Json.dll
+D:\WorkingSpace\Linked In Program\Linkedin\bin\Newtonsoft.Json.xml
